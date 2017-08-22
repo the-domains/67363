@@ -1,0 +1,54 @@
+layout_spectrum: 0.25019884639474943
+typography_spectrum: 0.19388663225475294
+color:
+  brandStrength: 0.34687481831565575
+  lightness: 0.9548246699878669
+  saturation: 0.5361299925679249
+  rhythmicContrast: 0.3560352223007801
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: coffee & code
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62753dbc-55f4-43ce-a2f7-081b0a7a7ed7.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/62753dbc-55f4-43ce-a2f7-081b0a7a7ed7.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: css tricks
+description: coffee & code...
+url: 'https://thegrid.ai/justcoffee'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/edf2d2d2-daad-4041-b427-4adf45ee80b2.png
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb4679f2-495c-4c1d-8c19-1cf915f21e3c.png
