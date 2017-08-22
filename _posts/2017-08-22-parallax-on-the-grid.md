@@ -2,9 +2,10 @@
 inFeed: true
 description: >-
   could be useful for certain sites, just a pity we can’t go full page width..
-  but all in css, and no need to upload any javascript file..
-dateModified: '2017-08-22T15:20:21.134Z'
-datePublished: '2017-08-22T15:20:21.602Z'
+  but all in css, and no need to upload any javascript file.. just scroll up or
+  down…
+dateModified: '2017-08-22T15:25:30.902Z'
+datePublished: '2017-08-22T15:25:31.308Z'
 title: Parallax on the Grid
 author: []
 publisher: {}
@@ -19,7 +20,7 @@ _type: Article
 ---
 # Parallax on the Grid
 
-could be useful for certain sites, just a pity we can't go full page width.. but all in css, and no need to upload any javascript file..
+could be useful for certain sites, just a pity we can't go full page width.. but all in css, and no need to upload any javascript file.. just scroll up or down...
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1Vd1u0zAUvu9THE0CtmlJ2uwHFkqFNkAaYuNi3HB5EjuJmWOH2Fla0CReg9fjSThOUsbaUgbbqjZtfX6_73y2x8bOJJ8M_EQri0LxCr4OAAqceo1gNo_g8GBYTp-3a1UmVARDwNpqt5JSjJdiIeQsAg_LUnLPzIzlxQ4cSaEuTjE5b_-_Ic8dMKiMZ3gl0ueDq0GwDS_u8KL656-PP5y8Pzsf3CUPbAcDwxMrtPILzWrJI4nGekkuJOvJcMC9WFurC8Lvmr8ZAXm4ynOvZ-4uPPXRRnzhEey2CZeql38t3oWPDn5barjIcutyrgJU_jsJrYS4sq17iYwJlXVtrPQusUIpcdq6530zB8O-6xiTi6zStWJeqY1wgRHsDx-5z4K94iVHilW6_7lgR2sxyQvqLIJUTDlbsHfcJPqSV-vazEdtp4mWuoqgymLcDPf3d-D6MfSfbS0wvvesg0ND5t4SyBtzeOrmMNfKf0rF8qn1UIqMyEoIsEPUr5ocmW7c7h3CyM2kRTCkrru3H26tQe914H9jTRSYEcC6kpsbubWliYKgaRo_jgXGJIUiMDoRKIuA8UInOk05H_mfymxjbZ3wPuqEf6-zex91dq_rDF4WnAkEyg6oGGwWtFn6E7Sd91ZbcPWxcVMyYSeOq2X3ctk7HP7Je0m5N-IO-6PgrofTFWFfA729PFZBX9_daH7n3Ed746C_4wbjvgdI6HAzLzbmtM5buVb7xoSCx0xczl1_XY-thWz5aNKJYBzQT-cdkPvEVeuK_Llef07eokY4eUsKFRyOc1QQUamwN5WTJ8dteRAGECSqrCYBg1AgrOEy9X3_yTgo_62zZSbCWzHx-GFJeIWXgsG7mUryRRKOagv8kiviIEYGSV2CTiH5RU3MLZ2CYB1_Ss8NaJ1afTjjDXzU1QXkaCCr6O6ABp1_qqve95543L2lotgD6-mUZ8TEaU1NSTlbZPPkx7fvtIs_18LO4cMJcaIVGSyRCRzNDFhF-45udyhmcIRC8hmZDRhbobvLdiCmqfS5Mm6hNpyB1aRMl65bN1bQkzLanNOXsY4r64bXYJu7LtdR_xNDWHeJ" height="700" style=""></iframe>
 
