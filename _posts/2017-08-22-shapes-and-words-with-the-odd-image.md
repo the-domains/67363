@@ -4,8 +4,8 @@ description: >-
   When posting an article, sometimes it may be useful to be able to write the
   text around an image or an object.. this is a simple approach using a circle
   as the shape, and the coffee cup as the background image :
-dateModified: '2017-08-22T15:20:21.134Z'
-datePublished: '2017-08-22T15:20:21.596Z'
+dateModified: '2017-08-22T15:23:30.401Z'
+datePublished: '2017-08-22T15:23:30.663Z'
 title: Shapes & Words..
 author: []
 publisher: {}
