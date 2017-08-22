@@ -4,8 +4,8 @@ description: >-
   When posting an article, sometimes it may be useful to be able to write the
   text around an image or an object.. this is a simple approach using a circle
   as the shape, and the coffee cup as the background image :
-dateModified: '2017-08-22T15:00:01.568Z'
-datePublished: '2017-08-22T15:00:01.917Z'
+dateModified: '2017-08-22T15:20:21.134Z'
+datePublished: '2017-08-22T15:20:21.596Z'
 title: Shapes & Words..
 author: []
 publisher: {}
@@ -24,7 +24,9 @@ When posting an article, sometimes it may be useful to be able to write the text
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkc1OwzAQhO95ir2AQSpJBeLSpjkUVQiJA0K8gONsYiv-iexN0wjBs-PUIHqxNDuzs5_kMtCsscpyobzQCJ8ZwKQakhu4X6-H0zZqiaqTdDFoteNRa2xpkUHyAe_cSEE1uIHUdPO4vrrdZl9ZWfyeKBt1BKF5CDuWMqyK26UyHQQvdkwSDWFTFNM05XWteJ0LZ4rghOLaFMK1LeJDPtiO_SLt2BmJJeI_FS8V8VSVsVckMAgT7xHGASyeCMjB7MZVWXsoKsmPCKkYlAWSCMZ5q2yXfG6buG0b9NHzbuzkOSMUzSkwKZJLnwe5ZGOHURZX_9svTGuoMdrDMEPr_LnAY6CYKSrXgonjUfTYLIhaEcVf0KrFnKWW9H7Dk-ReOyKEg1d9CM5e-gcz0AzvjjcBrmHvXY8W9m5pC9sUiXABuRfyjPERMZ49coI39JEu_AA7hazY" height="220" style=""></iframe>
 
-..and the code..
+..and the code.. after the break..
+
+---
 
     <style>
     .circle {
