@@ -4,111 +4,43 @@
         <description><![CDATA[Cafe Latte]]></description>
         <link>https://thegrid.ai/cafelatte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Aug 2017 15:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2017 15:20:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cafelatte/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Aug 2017 15:18:13 GMT</pubDate>
+        <pubDate>Tue, 22 Aug 2017 15:20:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Parallax on the Grid]]></title>
+            <description><![CDATA[<h1>Parallax on the Grid</h1>,<p>could be useful for certain sites, just a pity we can’t go full page width.. but all in css, and no need to upload any javascript file..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1Vd1u0zAUvu9THE0CtmlJ2uwHFkqFNkAaYuNi3HB5EjuJmWOH2Fla0CReg9fjSThOUsbaUgbbqjZtfX6_73y2x8bOJJ8M_EQri0LxCr4OAAqceo1gNo_g8GBYTp-3a1UmVARDwNpqt5JSjJdiIeQsAg_LUnLPzIzlxQ4cSaEuTjE5b_-_Ic8dMKiMZ3gl0ueDq0GwDS_u8KL656-PP5y8Pzsf3CUPbAcDwxMrtPILzWrJI4nGekkuJOvJcMC9WFurC8Lvmr8ZAXm4ynOvZ-4uPPXRRnzhEey2CZeql38t3oWPDn5barjIcutyrgJU_jsJrYS4sq17iYwJlXVtrPQusUIpcdq6530zB8O-6xiTi6zStWJeqY1wgRHsDx-5z4K94iVHilW6_7lgR2sxyQvqLIJUTDlbsHfcJPqSV-vazEdtp4mWuoqgymLcDPf3d-D6MfSfbS0wvvesg0ND5t4SyBtzeOrmMNfKf0rF8qn1UIqMyEoIsEPUr5ocmW7c7h3CyM2kRTCkrru3H26tQe914H9jTRSYEcC6kpsbubWliYKgaRo_jgXGJIUiMDoRKIuA8UInOk05H_mfymxjbZ3wPuqEf6-zex91dq_rDF4WnAkEyg6oGGwWtFn6E7Sd91ZbcPWxcVMyYSeOq2X3ctk7HP7Je0m5N-IO-6PgrofTFWFfA729PFZBX9_daH7n3Ed746C_4wbjvgdI6HAzLzbmtM5buVb7xoSCx0xczl1_XY-thWz5aNKJYBzQT-cdkPvEVeuK_Llef07eokY4eUsKFRyOc1QQUamwN5WTJ8dteRAGECSqrCYBg1AgrOEy9X3_yTgo_62zZSbCWzHx-GFJeIWXgsG7mUryRRKOagv8kiviIEYGSV2CTiH5RU3MLZ2CYB1_Ss8NaJ1afTjjDXzU1QXkaCCr6O6ABp1_qqve95543L2lotgD6-mUZ8TEaU1NSTlbZPPkx7fvtIs_18LO4cMJcaIVGSyRCRzNDFhF-45udyhmcIRC8hmZDRhbobvLdiCmqfS5Mm6hNpyB1aRMl65bN1bQkzLanNOXsY4r64bXYJu7LtdR_xNDWHeJ" height="700"></iframe>,<p>code after the break..</p>]]></description>
+            <link>https://thegrid.ai/cafelatte/parallax-on-the-grid/index.html</link>
+            <guid isPermaLink="false">29d92ca9-bb50-42d6-afb9-e3aca58e403e</guid>
+            <pubDate>Tue, 22 Aug 2017 15:18:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stiched Border II]]></title>
-            <description><![CDATA[<h1>Stiched Border II</h1>,<p>Like the last example, except this time, lets use an img to make it more realistic..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUVluwyAU_OcUT4rUpFK81vkhbu7C8oJRMVhAaqdV7l6bOFGkItZh5q1tiFeDJ5KHqKPoUMIvAYCBSamtolCXw3RckJ55pS2F6gFwJr6UdxcrKVy82XUxDoEWxTiOOeea8Vy4vghOaGb6wiCLHfp8sOo9yYUzzlPYlGWZ3mdnYxb0D84-q9VFwkbUqosUuDMyoUZbzLoVrfIP7O_xOC9xtlgPE0gWllQ2lajr-vDynXkm9SW85MXdlIWOSTdSSNrZ-fP0irNdVe5hWcvMD_foI07xKatWtvJ43UO2XNMGsFBfxqZpmv-JWed7Zo7kRgh38poa8Kz_vdw30hZro1qpv0EYFsLn9tGz7YkIdz4jwttcV4mzgbaYeac_5IaOMQ" height="115"></iframe>,<p>..and the code..</p>,<pre><code>&lt;style&gt;
-.stitched {
-   padding: 20px;
-   margin: 10px;
-   background: url(https://www.bbiab.com/socialm/leather.png);
-   color: #000;
-   font-size: 21px;
-   font-weight: bold;
-   line-height: 1.3em;
-   border: 2px dashed #1c2225;
-   border-radius: 20px;
-   box-shadow:  2px 1px 2px 1px rgba(10, 10, 0, 0.5);
-   text-shadow: 1px 1px grey, -1px -1px   
-              #444;
-   font-weight: normal;
-}
-
-body {
-  padding: 10px;
-}
-&lt;/style&gt;
-&lt;div class=&apos;stitched&apos;&gt;
-coffee &amp; code
-  &lt;/div&gt;</code></pre>]]></description>
+            <description><![CDATA[<h1>Stiched Border II</h1>,<p>Like the last example, except this time, lets use an img to make it more realistic..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUVluwyAU_OcUT4rUpFK81vkhbu7C8oJRMVhAaqdV7l6bOFGkItZh5q1tiFeDJ5KHqKPoUMIvAYCBSamtolCXw3RckJ55pS2F6gFwJr6UdxcrKVy82XUxDoEWxTiOOeea8Vy4vghOaGb6wiCLHfp8sOo9yYUzzlPYlGWZ3mdnYxb0D84-q9VFwkbUqosUuDMyoUZbzLoVrfIP7O_xOC9xtlgPE0gWllQ2lajr-vDynXkm9SW85MXdlIWOSTdSSNrZ-fP0irNdVe5hWcvMD_foI07xKatWtvJ43UO2XNMGsFBfxqZpmv-JWed7Zo7kRgh38poa8Kz_vdw30hZro1qpv0EYFsLn9tGz7YkIdz4jwttcV4mzgbaYeac_5IaOMQ" height="115"></iframe>,<p>code after the break</p>]]></description>
             <link>https://thegrid.ai/cafelatte/stiched-border-ii/index.html</link>
             <guid isPermaLink="false">6a83a027-db78-4a47-a9e8-2531c5cd4733</guid>
             <pubDate>Tue, 22 Aug 2017 12:13:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shapes & Words..]]></title>
-            <description><![CDATA[<h1>Shapes &amp; Words..</h1>,<p>When posting an article, sometimes it may be useful to be able to write the text around an image or an object.. this is a simple approach using a circle as the shape, and the coffee cup as the background image :</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkc1OwzAQhO95ir2AQSpJBeLSpjkUVQiJA0K8gONsYiv-iexN0wjBs-PUIHqxNDuzs5_kMtCsscpyobzQCJ8ZwKQakhu4X6-H0zZqiaqTdDFoteNRa2xpkUHyAe_cSEE1uIHUdPO4vrrdZl9ZWfyeKBt1BKF5CDuWMqyK26UyHQQvdkwSDWFTFNM05XWteJ0LZ4rghOLaFMK1LeJDPtiO_SLt2BmJJeI_FS8V8VSVsVckMAgT7xHGASyeCMjB7MZVWXsoKsmPCKkYlAWSCMZ5q2yXfG6buG0b9NHzbuzkOSMUzSkwKZJLnwe5ZGOHURZX_9svTGuoMdrDMEPr_LnAY6CYKSrXgonjUfTYLIhaEcVf0KrFnKWW9H7Dk-ReOyKEg1d9CM5e-gcz0AzvjjcBrmHvXY8W9m5pC9sUiXABuRfyjPERMZ49coI39JEu_AA7hazY" height="220"></iframe>,<p>..and the code..</p>,<pre><code>&lt;style&gt;
-.circle {
-  width: 200px;
-  height: 200px;
-  float: left;
-  shape-outside: circle(50%);
-}
-&lt;/style&gt;
-&lt;div class=&apos;circle&apos;&gt;
-  &lt;img src=&apos;https://www.bbiab.com/socialm/coffee3.png&apos; height=&apos;200px&apos; width=&apos;200px&apos;&gt;
-&lt;/div&gt;
-&apos;Let me wake up next to you,&lt;br /&gt;have coffee in the morning&lt;br /&gt;
-and wander through the city&lt;br /&gt;with your hand in mine,&lt;br /&gt;
-and I&apos;ll be happy for the rest&lt;br/&gt;of my fucked up little life.&apos;&lt;br /&gt;
-&lt;br /&gt;~ Charlotte Eriksson&lt;br /&gt;
-&lt;br /&gt;Empty Roads &amp; Broken Bottles;&lt;br /&gt;in search for The Great Perhaps</code></pre>]]></description>
+            <description><![CDATA[<h1>Shapes &amp; Words..</h1>,<p>When posting an article, sometimes it may be useful to be able to write the text around an image or an object.. this is a simple approach using a circle as the shape, and the coffee cup as the background image :</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkc1OwzAQhO95ir2AQSpJBeLSpjkUVQiJA0K8gONsYiv-iexN0wjBs-PUIHqxNDuzs5_kMtCsscpyobzQCJ8ZwKQakhu4X6-H0zZqiaqTdDFoteNRa2xpkUHyAe_cSEE1uIHUdPO4vrrdZl9ZWfyeKBt1BKF5CDuWMqyK26UyHQQvdkwSDWFTFNM05XWteJ0LZ4rghOLaFMK1LeJDPtiO_SLt2BmJJeI_FS8V8VSVsVckMAgT7xHGASyeCMjB7MZVWXsoKsmPCKkYlAWSCMZ5q2yXfG6buG0b9NHzbuzkOSMUzSkwKZJLnwe5ZGOHURZX_9svTGuoMdrDMEPr_LnAY6CYKSrXgonjUfTYLIhaEcVf0KrFnKWW9H7Dk-ReOyKEg1d9CM5e-gcz0AzvjjcBrmHvXY8W9m5pC9sUiXABuRfyjPERMZ49coI39JEu_AA7hazY" height="220"></iframe>,<p>..and the code.. after the break..</p>]]></description>
             <link>https://thegrid.ai/cafelatte/shapes-and-words-with-the-odd-image/index.html</link>
             <guid isPermaLink="false">53545c24-6b11-4f14-ad41-97b725b3c06b</guid>
             <pubDate>Tue, 22 Aug 2017 11:15:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stitched Border..]]></title>
-            <description><![CDATA[<h1>Stitched Border..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUO1uwyAM_M9TWK00bdLIkmbbjzTLu5AYEjQCEdA13dR3H5APbQJb4mwf56udvynekMx56buBI_wQAJgYotR9Bad8ms8RGZntpa6g2ICWdZ-9NReNFRyFyPMyT3hnlLEJEuktjPbUyW8eyIp1NmFXLvvBV9AahQlVUnM6rGiRlXxcPjIWeWA8TTMgc1HjTr7UqGUoL-6vODNTNzA01wrydF7D9CrzOVEFLfAeIhZs37LHIhRixJu9PSUez2e_E9E4ktKRsXLb998u2tiRqTO5E9IavCUzdy8XdXdSv6ym1yi_oFPMuY_D5v-hIZ0RgnN4CFYiD92hq_kF7FN9jg" height="115"></iframe>,<p>A nice way to maybe use a heading label ? ..here is the code ..</p>,<pre><code>&lt;style&gt;
-.stitched {
-   padding: 20px;
-   margin: 10px;
-   background: #ff0030;
-   color: #fff;
-   font-size: 21px;
-   font-weight: bold;
-   line-height: 1.3em;
-   border: 2px dashed #fff;
-   border-radius: 10px;
-   box-shadow: 0 0 0 4px #ff0030, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
-   text-shadow: -1px -1px #aa3030;
-   font-weight: normal;
-}
-
-body {
-  padding: 10px;
-}
-&lt;/style&gt;
-&lt;div class=&quot;stitched&quot;&gt;
-coffee &amp; code
-&lt;/div&gt;</code></pre>]]></description>
+            <description><![CDATA[<h1>Stitched Border..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUO1uwyAM_M9TWK00bdLIkmbbjzTLu5AYEjQCEdA13dR3H5APbQJb4mwf56udvynekMx56buBI_wQAJgYotR9Bad8ms8RGZntpa6g2ICWdZ-9NReNFRyFyPMyT3hnlLEJEuktjPbUyW8eyIp1NmFXLvvBV9AahQlVUnM6rGiRlXxcPjIWeWA8TTMgc1HjTr7UqGUoL-6vODNTNzA01wrydF7D9CrzOVEFLfAeIhZs37LHIhRixJu9PSUez2e_E9E4ktKRsXLb998u2tiRqTO5E9IavCUzdy8XdXdSv6ym1yi_oFPMuY_D5v-hIZ0RgnN4CFYiD92hq_kF7FN9jg" height="115"></iframe>,<p>A nice way to maybe use a heading label ? </p>,<p>code after the break..</p>]]></description>
             <link>https://thegrid.ai/cafelatte/stitched-border/index.html</link>
             <guid isPermaLink="false">51513f34-e7b1-475c-bf00-44b6adc18286</guid>
             <pubDate>Mon, 21 Aug 2017 15:56:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Text Shadow..]]></title>
-            <description><![CDATA[<h1>Text Shadow..</h1>,<p>simple effect that can come in useful when combined with others..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149IrzkhMyS9XqFbgKkmtKNGFcK0UDAoqFIyguCg9KVHDQEcBivRMNK0VuNLy84CqM6tSrRSMDAsqrLlquWz0oYbapGSWKSTnJBYX2ypBDFSy40rOT0tLTVVQU0jOT0kFqgWqseMCACWeKWY" height="60"></iframe>,<p>..and the code for that effect :</p>,<pre><code>&lt;style&gt;
-.shadow { 
-text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4); 
-font-size: 21px;
-}
-&lt;/style&gt;
-&lt;div class=&quot;shadow&quot;&gt;
-coffee &amp; code
-&lt;/div&gt;</code></pre>]]></description>
+            <description><![CDATA[<h1>Text Shadow..</h1>,<p>simple effect that can come in useful when combined with others..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149IrzkhMyS9XqFbgKkmtKNGFcK0UDAoqFIyguCg9KVHDQEcBivRMNK0VuNLy84CqM6tSrRSMDAsqrLlquWz0oYbapGSWKSTnJBYX2ypBDFSy40rOT0tLTVVQU0jOT0kFqgWqseMCACWeKWY" height="60"></iframe>,<p>code after the break..</p>]]></description>
             <link>https://thegrid.ai/cafelatte/text-shadow/index.html</link>
             <guid isPermaLink="false">cf53e4d8-e1b3-43b4-84bb-a9189049c657</guid>
             <pubDate>Mon, 21 Aug 2017 16:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parallax on the Grid]]></title>
-            <description><![CDATA[<h1>Parallax on the Grid</h1>,<p>could be useful for certain sites, just a pity we can’t go full page width.. but all in css, and no need to upload any javascript file..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1Vd1u0zAUvu9THE0CtmlJ2uwHFkqFNkAaYuNi3HB5EjuJmWOH2Fla0CReg9fjSThOUsbaUgbbqjZtfX6_73y2x8bOJJ8M_EQri0LxCr4OAAqceo1gNo_g8GBYTp-3a1UmVARDwNpqt5JSjJdiIeQsAg_LUnLPzIzlxQ4cSaEuTjE5b_-_Ic8dMKiMZ3gl0ueDq0GwDS_u8KL656-PP5y8Pzsf3CUPbAcDwxMrtPILzWrJI4nGekkuJOvJcMC9WFurC8Lvmr8ZAXm4ynOvZ-4uPPXRRnzhEey2CZeql38t3oWPDn5barjIcutyrgJU_jsJrYS4sq17iYwJlXVtrPQusUIpcdq6530zB8O-6xiTi6zStWJeqY1wgRHsDx-5z4K94iVHilW6_7lgR2sxyQvqLIJUTDlbsHfcJPqSV-vazEdtp4mWuoqgymLcDPf3d-D6MfSfbS0wvvesg0ND5t4SyBtzeOrmMNfKf0rF8qn1UIqMyEoIsEPUr5ocmW7c7h3CyM2kRTCkrru3H26tQe914H9jTRSYEcC6kpsbubWliYKgaRo_jgXGJIUiMDoRKIuA8UInOk05H_mfymxjbZ3wPuqEf6-zex91dq_rDF4WnAkEyg6oGGwWtFn6E7Sd91ZbcPWxcVMyYSeOq2X3ctk7HP7Je0m5N-IO-6PgrofTFWFfA729PFZBX9_daH7n3Ed746C_4wbjvgdI6HAzLzbmtM5buVb7xoSCx0xczl1_XY-thWz5aNKJYBzQT-cdkPvEVeuK_Llef07eokY4eUsKFRyOc1QQUamwN5WTJ8dteRAGECSqrCYBg1AgrOEy9X3_yTgo_62zZSbCWzHx-GFJeIWXgsG7mUryRRKOagv8kiviIEYGSV2CTiH5RU3MLZ2CYB1_Ss8NaJ1afTjjDXzU1QXkaCCr6O6ABp1_qqve95543L2lotgD6-mUZ8TEaU1NSTlbZPPkx7fvtIs_18LO4cMJcaIVGSyRCRzNDFhF-45udyhmcIRC8hmZDRhbobvLdiCmqfS5Mm6hNpyB1aRMl65bN1bQkzLanNOXsY4r64bXYJu7LtdR_xNDWHeJ" height="700"></iframe>,<p>the code is after the break..</p>]]></description>
-            <link>https://thegrid.ai/cafelatte/parallax-on-the-grid/index.html</link>
-            <guid isPermaLink="false">29d92ca9-bb50-42d6-afb9-e3aca58e403e</guid>
-            <pubDate>Tue, 22 Aug 2017 15:18:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
