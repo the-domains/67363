@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: coffee & code
+name: Cafe Latte
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -44,7 +44,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: css tricks
+title: Cafe Latte
 description: coffee & code...
 url: 'https://thegrid.ai/cafelatte'
 logo: >-
