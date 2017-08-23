@@ -4,8 +4,8 @@ description: >-
   could be useful for certain sites, just a pity we can’t go full page width..
   but all in css, and no need to upload any javascript file.. just scroll up or
   down…
-dateModified: '2017-08-23T12:47:26.156Z'
-datePublished: '2017-08-23T12:47:26.418Z'
+dateModified: '2017-08-23T12:47:31.115Z'
+datePublished: '2017-08-23T12:47:31.349Z'
 title: Parallax on the Grid
 author: []
 publisher: {}
