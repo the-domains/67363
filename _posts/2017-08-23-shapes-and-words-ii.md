@@ -4,16 +4,16 @@ description: >-
   I meant to so a simpler example using the polygon shape, but got sidetracked
   and ended up with this. The difference is we are using 2 images this time,
   floating left and right..
-dateModified: '2017-08-23T12:44:43.285Z'
-datePublished: '2017-08-23T12:44:43.939Z'
+dateModified: '2017-08-23T12:44:53.873Z'
+datePublished: '2017-08-23T12:44:54.106Z'
 title: Shapes & Words II
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-23-shapes-and-words-ii.md
 starred: false
 datePublishedOriginal: '2017-08-23T12:44:43.939Z'
-sourcePath: _posts/2017-08-23-shapes-and-words-ii.md
 url: shapes-and-words-ii/index.html
 _type: Article
 
