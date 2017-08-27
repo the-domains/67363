@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Like the last example, except this time, lets use an img to make it more
   realistic..
-dateModified: '2017-08-23T12:48:40.797Z'
-datePublished: '2017-08-23T12:48:41.198Z'
+dateModified: '2017-08-27T09:04:13.079Z'
+datePublished: '2017-08-27T09:04:13.503Z'
 title: Stiched Border II
 author: []
 publisher: {}
