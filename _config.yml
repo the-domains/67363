@@ -52,3 +52,7 @@ logo: >-
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb4679f2-495c-4c1d-8c19-1cf915f21e3c.png
+purpose:
+  - type: contact
+    url: 'mailto:adrian@bbiab.com'
+    label: Contact me
