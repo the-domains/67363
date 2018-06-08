@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Mailto examples :'
-dateModified: '2018-06-08T13:25:23.040Z'
-datePublished: '2018-06-08T13:25:23.724Z'
+dateModified: '2018-06-08T13:28:06.010Z'
+datePublished: '2018-06-08T13:28:06.824Z'
 title: ''
 author: []
 publisher: {}
@@ -15,6 +15,4 @@ _type: Blurb
 ---
 Mailto examples :
 
-Here is [one][0]
-
-[0]: http://mailto:adrian@bbiab.com/
+    <a href="mailto:adrian@bbiab.com">mail me</a>
