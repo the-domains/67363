@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Mailto examples :'
-dateModified: '2018-06-08T13:28:06.010Z'
-datePublished: '2018-06-08T13:28:06.824Z'
+dateModified: '2018-06-08T13:28:18.729Z'
+datePublished: '2018-06-08T13:28:19.254Z'
 title: ''
 author: []
 publisher: {}
