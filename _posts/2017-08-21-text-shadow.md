@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: simple effect that can come in useful when combined with others..
-dateModified: '2018-10-05T23:35:12.555Z'
-datePublished: '2018-10-05T23:35:13.053Z'
+dateModified: '2018-10-06T17:04:09.815Z'
+datePublished: '2018-10-06T17:04:10.934Z'
 title: Text Shadow..
 author: []
 publisher: {}
