@@ -4,8 +4,8 @@ description: >-
   I meant to so a simpler example using the polygon shape, but got sidetracked
   and ended up with this. The difference is we are using 2 images this time,
   floating left and right..
-dateModified: '2018-10-05T23:35:12.555Z'
-datePublished: '2018-10-05T23:35:13.052Z'
+dateModified: '2018-10-06T17:04:09.815Z'
+datePublished: '2018-10-06T17:04:10.939Z'
 title: Shapes & Words II
 author: []
 publisher: {}
