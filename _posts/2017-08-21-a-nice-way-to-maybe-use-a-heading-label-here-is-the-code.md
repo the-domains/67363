@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'A nice way to maybe use a heading label ? '
-dateModified: '2018-10-06T17:04:09.815Z'
-datePublished: '2018-10-06T17:04:10.931Z'
+dateModified: '2018-11-20T20:37:56.485Z'
+datePublished: '2018-11-20T20:37:57.048Z'
 title: Stitched Border..
 author: []
 publisher: {}
